@@ -38,3 +38,8 @@ This is a simple REST API for todo items. The available routes are
 - `GET /todos/:id` gets a todo by id
 - `PUT /todos/:id` updates a todo by id
 - `DELETE /todos/:id` deletes a todo by id
+
+## sample
+https://github.com/greenroach/express-ts-template
+npm run build
+npm start
